@@ -1,0 +1,6 @@
+projectKey=com.echios:calculator
+serverUrl=https://potential-fishstick-49p7w9x945pf57wv-9000.app.github.dev
+serverVersion=25.2.0.102705
+dashboardUrl=https://potential-fishstick-49p7w9x945pf57wv-9000.app.github.dev/dashboard?id=com.echios%3Acalculator
+ceTaskId=a032d57b-0050-414c-83f4-794a72f00e11
+ceTaskUrl=https://potential-fishstick-49p7w9x945pf57wv-9000.app.github.dev/api/ce/task?id=a032d57b-0050-414c-83f4-794a72f00e11
